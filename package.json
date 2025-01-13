@@ -1,0 +1,17 @@
+{
+  "name": "@teamanubot/sesibelajar",
+  "version": "1.0.0",
+  "description": "Pada Repositories kali ini hanya akan ada markdown yang berisikan tutorial untuk Github, menginstall dan mengatur berbagai konfigurasi serta dokumentasi terkait penggunaan GitHub.",
+  "keywords": [
+    "tutorial"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo 'Pergunakan dengan bijak ^_^'"
+  },
+  "author": "Teamanubot",
+  "license": "MIT",
+  "dependencies": {
+    "@teamanubot/sesibelajar": "^1.0.0"
+  }
+}
